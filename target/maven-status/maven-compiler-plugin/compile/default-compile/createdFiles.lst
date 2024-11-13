@@ -1,0 +1,4 @@
+com\mycompany\brdata\SQL.class
+com\mycompany\brdataconnect\ConnectionFac.class
+com\mycompany\brdata\Jogador.class
+com\mycompany\brdata\BRDATA.class
